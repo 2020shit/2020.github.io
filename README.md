@@ -7,4 +7,4 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 ## Misc
 
-- [AboutMe](http://www.aslightdesign.com)# 2020.github.io
+- [AboutMe](http://www.aslightdesign.com)
