@@ -1,4 +1,4 @@
-# 2020.github.io
+# 2020shit.github.io
 
 A pessimistic review of all the bad things that happened this year so far.
 
