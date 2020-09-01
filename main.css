@@ -6966,7 +6966,7 @@ code, .code {
 
 body {
   background: #540b0b; /* #000 */
-  color: white;
+  color: white; /* Header text color */
   font-family: 'Nimbus Sans';
   font-size: 18px; }
 
@@ -7026,8 +7026,8 @@ a {
       display: inline-block; }
 
 ::selection {
-  background-color: white;
-  color: black; }
+  background-color: rgba(255, 255, 255, 0); /* white & no opacity*/
+  color: rgb(238, 78, 78); } /* black */
 
 section {
   margin-bottom: 20vh; }
@@ -7042,8 +7042,8 @@ section {
   font-size: 30vw;
   font-family: "Nimbus Sans Extended";
   color: transparent;
-  opacity: .15;
-  -webkit-text-stroke: 1px white;
+  opacity: 1; /* .15 */
+  -webkit-text-stroke: 1px #801C09; /* white */
   position: fixed;
   left: 0;
   top: 50%;
